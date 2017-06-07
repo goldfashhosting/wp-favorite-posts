@@ -1,11 +1,16 @@
 <?php
 /*
-Plugin Name: WP Favorite Posts
+
+Plugin Name: GMWP Favorite Posts
 Plugin URI: https://github.com/goldfashhosting/wp-favorite-posts
 Description: Allows users to add favorite posts. This plugin use cookies for saving data so unregistered users can favorite a post. Put <code>&lt;?php wpfp_link(); ?&gt;</code> where ever you want on a single post. Then create a page which includes that text : <code>[wp-favorite-posts]</code> That's it!
 Version: 2.0
 Author: Huseyin Berberoglu/GoldFash Devs
 Author URI: https://github.com/hberberoglu
+Domain Path:       /languages
+Text Domain:       wp-favorite-posts
+GitHub Plugin URI: https://github.com/goldfashhosting/wp-favorite-posts
+GitHub Branch:     goldfashhosting-gmwp+
 
 */
 
